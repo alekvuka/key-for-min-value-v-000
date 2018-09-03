@@ -11,7 +11,6 @@ def key_for_min_value(name_hash)
   end
   temp_array.sort
   smallest_value = temp_array[0]
-  return smallest_value 
-
+  return smallest_value
 
 end
